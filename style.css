@@ -1,0 +1,28 @@
+ 
+.noturno{
+    background-color: black;
+   
+}
+.salesforce{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 20%, rgba(0,212,255,1) 100%);
+}
+.branco {
+    background-color: white;
+}
+
+button {
+    width: 60px;
+    height: 60px;
+    margin: 40px;
+}
+
+.btn {
+    background-color: black;
+}
+.btn2 {
+    background-color: blue;
+}
+.btn3 {
+    background-color: white;
+}
